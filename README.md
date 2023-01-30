@@ -1,2 +1,2 @@
-# labs-1course
+# labs-1course-1sem
 БУрдина ЕКатерина ИВТ-22-1Б
